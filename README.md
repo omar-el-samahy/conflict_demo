@@ -1,7 +1,4 @@
 # Git Conflict Demo
-This project demonstrates branching and merge conflict resolution.
-This project demonstrates branching and merge conflict resolution.
-Feature Login: Added authentication module.
-# Git Conflict Demo
 
+Feature Login: Added authentication module.
 Dashboard Feature: Added analytics dashboard.
